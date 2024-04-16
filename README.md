@@ -1,2 +1,3 @@
-﻿# submission-repository_part3
- Notes application exercise
+﻿#  Notes application exercise
+ Full stack open Part 3 
+
