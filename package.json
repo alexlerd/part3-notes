@@ -1,0 +1,9 @@
+{
+  "dependencies": {},
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix ./notes_frontend\" \"npm run dev --prefix ./notes_backend\""
+  }
+}
